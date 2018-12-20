@@ -25,7 +25,7 @@
     border: 0;
     padding: 0;
   }
-  
+  /*took from https://1stwebdesigner.com/free-code-snippets-css-buttons/*/
   .button{
     display: inline-block;
     *display: inline;
